@@ -16,7 +16,7 @@
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
         "price": 10.99, // type decimal
         "sku": "SKU-TSHIRT1-RED",
-        "inventory_quantity": 15 // type integer
+        "inventory_quantity": 15
       },
       {
         "id": "RDSTATION-TSHIRT1-VARIANT2",
@@ -26,7 +26,7 @@
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
         "price": 10.99, // type decimal
         "sku": "SKU-TSHIRT1-BLUE",
-        "inventory_quantity": 10 // type integer
+        "inventory_quantity": 10
       }
     ]
   },
@@ -46,9 +46,9 @@
         "link": "https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-2",
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Capturadetela2024-05-09180122.png",
         "price": 12.59, // type decimal
-        "compare_at_price": 15.59, // type decimal
+        "compare_at_price": 15.59,
         "sku": "SKU-TSHIRT2",
-        "inventory_quantity": 20 // type integer
+        "inventory_quantity": 20
       }
     ]
   },
@@ -61,7 +61,7 @@
     "price": 15.59, // type decimal
     "sku": "SKU-TSHIRT3",
     "categories": ["aparencia", "t-shirt", "novo", "logomarca"],
-    "inventory_quantity": 5, // type integer
+    "inventory_quantity": 5,
     "status": "unpublished"
   },
   {
@@ -74,7 +74,7 @@
     "compare_at_price": 18.59, // type decimal
     "sku": "SKU-TSHIRT4",
     "categories": ["aparencia", "t-shirt", "logomarca"],
-    "inventory_quantity": 1, // type integer
+    "inventory_quantity": 1,
     "status": "published"
   }
 ]
