@@ -19,6 +19,7 @@
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
         "price": 10.99,
         "sku": "SKU-TSHIRT1-BLUE",
+        "categories": ["Regata sem estampa Azul"],
         "inventory_quantity": 10
       },
       {
@@ -29,6 +30,7 @@
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
         "price": 10.99,
         "sku": "SKU-TSHIRT1-RED",
+        "categories": ["Regata sem estampa Vemelha"],
         "inventory_quantity": 10
       }
     ]
