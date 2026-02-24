@@ -75,7 +75,7 @@
     "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg",
     "price": 15.99,
     "sku": "SKU-TSHIRT3",
-    "categories": ["Novo", "Regata com manga"],
+    "categories": ["New", "Regata com manga"],
     "inventory_quantity": 5,
     "status": "unpublished"
   },
@@ -87,7 +87,7 @@
     "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg",
     "price": 15.99,
     "sku": "SKU-TSHIRT4",
-    "categories": ["Antiga", "Regata sem manga"],
+    "categories": ["Old", "Regata sem manga"],
     "inventory_quantity": 10,
     "status": "published"
   }
