@@ -8,6 +8,7 @@
     "price": 10.99,
     "sku": "SKU-TSHIRT1",
     "categories": ["principal","aparencia", "t-shirt", "novo", "logomarca"],
+    "inventory_quantity": 20,
     "status": "published",
     "variants": [
       {
@@ -18,7 +19,7 @@
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
         "price": 10.99,
         "sku": "SKU-TSHIRT1-BLUE",
-        "inventory_quantity": 15
+        "inventory_quantity": 10
       },
       {
         "id": "TSHIRT1-VARIANT2",
@@ -41,6 +42,7 @@
     "price": 10.99,
     "sku": "SKU-TSHIRT2",
     "categories": ["principal", "aparencia", "t-shirt", "novo", "logomarca"],
+    "inventory_quantity": 10,
     "status": "published",
     "variants": [
       {
@@ -51,7 +53,7 @@
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Capturadetela2024-05-09180122.png",
         "price": 10.99,
         "sku": "SKU-TSHIRT2-BLUE",
-        "inventory_quantity": 20
+        "inventory_quantity": 5
       },
       {
         "id": "TSHIRT2-VARIANT2",
@@ -61,7 +63,7 @@
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
         "price": 10.99,
         "sku": "SKU-TSHIRT2-RED",
-        "inventory_quantity": 10
+        "inventory_quantity": 5
       }
     ]
   },
@@ -86,7 +88,7 @@
     "price": 15.99,
     "sku": "SKU-TSHIRT4",
     "categories": ["principal", "aparencia", "t-shirt", "logomarca"],
-    "inventory_quantity": 1,
+    "inventory_quantity": 10,
     "status": "published"
   }
 ]
