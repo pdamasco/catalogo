@@ -51,6 +51,16 @@
         "compare_at_price": 15.59,
         "sku": "SKU-TSHIRT2-RED",
         "inventory_quantity": 20
+      },
+      {
+        "id": "RDSTATION-TSHIRT2-VARIANT2",
+        "title": "Cor: Azul",
+        "description": "Camiseta azul com uma logo da RD Station na frente.",
+        "link": "https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1",
+        "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
+        "price": 10.99,
+        "sku": "SKU-TSHIRT2-BLUE",
+        "inventory_quantity": 10
       }
     ]
   },
