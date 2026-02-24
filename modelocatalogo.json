@@ -7,7 +7,7 @@
     "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
     "price": 10.99,
     "sku": "SKU-TSHIRT1",
-    "categories": ["Regata", "Regata Lisa"],
+    "categories": ["Regata sem estampa"],
     "inventory_quantity": 20,
     "status": "published",
     "variants": [
@@ -41,7 +41,7 @@
     "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Capturadetela2024-05-09180122.png",
     "price": 10.99,
     "sku": "SKU-TSHIRT2",
-    "categories": ["Regata", "Regata com Estampa"],
+    "categories": ["Regata com Estampa"],
     "inventory_quantity": 10,
     "status": "published",
     "variants": [
@@ -75,7 +75,7 @@
     "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg",
     "price": 15.99,
     "sku": "SKU-TSHIRT3",
-    "categories": ["New", "Regata com manga"],
+    "categories": ["Regata com manga"],
     "inventory_quantity": 5,
     "status": "unpublished"
   },
@@ -87,7 +87,7 @@
     "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg",
     "price": 15.99,
     "sku": "SKU-TSHIRT4",
-    "categories": ["Old", "Regata sem manga"],
+    "categories": ["Regata sem manga"],
     "inventory_quantity": 10,
     "status": "published"
   }
