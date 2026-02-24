@@ -55,6 +55,7 @@
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Capturadetela2024-05-09180122.png",
         "price": 10.99,
         "sku": "SKU-TSHIRT2-BLUE",
+        "categories": ["Regata com Estampa Azul"],
         "inventory_quantity": 5
       },
       {
@@ -65,6 +66,7 @@
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
         "price": 10.99,
         "sku": "SKU-TSHIRT2-RED",
+        "categories": ["Regata com Estampa Vermelha"],
         "inventory_quantity": 5
       }
     ]
