@@ -10,7 +10,9 @@
     "categories": ["CAPACETE NORISK SOUL II GRAND PRIX UNITED KINGDOM 54/XS"],
     "inventory_quantity": 10,
     "status": "published"
-  },
+  }
+]
+[
   {
     "id": "SOUL II 56/S",
     "title": "CAPACETE NORISK SOUL II GRAND PRIX UNITED KINGDOM 56/S",
@@ -22,7 +24,9 @@
     "categories": ["CAPACETE NORISK SOUL II GRAND PRIX UNITED KINGDOM 56/S"],
     "inventory_quantity": 10,
     "status": "published",
-  },
+  }
+]
+[
   {
     "id": "SOUL II 58/S",
     "title": "CAPACETE NORISK SOUL II GRAND PRIX UNITED KINGDOM 58/S",
@@ -34,7 +38,9 @@
     "categories": ["CAPACETE NORISK SOUL II GRAND PRIX UNITED KINGDOM 58/S"],
     "inventory_quantity": 10,
     "status": "published"
-  },
+  }
+]
+[
   {
     "id": "SOUL II 60/L",
     "title": "CAPACETE NORISK SOUL II GRAND PRIX UNITED KINGDOM 60/L",
@@ -46,7 +52,9 @@
     "categories": ["CAPACETE NORISK SOUL II GRAND PRIX UNITED KINGDOM 60/L"],
     "inventory_quantity": 10,
     "status": "published"
-  },
+  }
+]
+[
   {
     "id": "SOUL II 62/L",
     "title": "CAPACETE NORISK SOUL II GRAND PRIX UNITED KINGDOM 62/L",
