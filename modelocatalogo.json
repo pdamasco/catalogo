@@ -7,7 +7,7 @@
     "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
     "price": 10.99,
     "sku": "SKU-TSHIRT1",
-    "categories": ["Regata sem estampa"],
+    "categories": ["Regata sem estampa", "Regata com estampa"],
     "inventory_quantity": 20,
     "status": "published",
     "variants": [
