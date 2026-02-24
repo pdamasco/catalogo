@@ -24,7 +24,7 @@
         "description": "Camiseta azul com uma logo da RD Station na frente.",
         "link": "https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1",
         "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
-        "price": 10.99, // type decimal
+        "price": 10.99,
         "sku": "SKU-TSHIRT1-BLUE",
         "inventory_quantity": 10
       }
