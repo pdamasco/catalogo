@@ -120,5 +120,126 @@
         "inventory_quantity": 15
       }
     ]
-  }
-]
+  },
+  {
+    "id": "SOUL-II-FR",
+    "title": "CAPACETE NORISK SOUL II GRAND PRIX FRANCE",
+    "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL II tem o equilíbrio perfeito entre praticidade e estilo.",
+    "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-france/p?skuId=2446",
+    "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/189368-1200-auto?v=639038168730600000&width=1200&height=auto&aspect=true",
+    "categories": ["Capacete Norisk FF302 (SOUL II GRAND PRIX FRANCE)"],
+    "status": "published",
+    "variants": [
+      {
+        "id": "SOUL-II-FR 54/XS",
+        "title": "CAPACETE NORISK SOUL II GRAND PRIX FRANCE 54/XS",
+        "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL tem o equilíbrio perfeito entre praticidade e estilo.",
+        "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-france/p?skuId=2446",
+        "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/189368-1200-auto?v=639038168730600000&width=1200&height=auto&aspect=true",
+        "price": 999.99,
+        "sku": "2446",
+        "inventory_quantity": 15
+      },
+      {
+        "id": "SOUL-II-FR 56/S",
+        "title": "CAPACETE NORISK SOUL II GRAND PRIX FRANCE 56/S",
+        "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL tem o equilíbrio perfeito entre praticidade e estilo.",
+        "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-france/p?skuId=2447",
+        "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/189368-1200-auto?v=639038168730600000&width=1200&height=auto&aspect=true",
+        "price": 999.99,
+        "sku": "2447",
+        "inventory_quantity": 15
+      },
+      {
+        "id": "SOUL-II-FR 58/M",
+        "title": "CAPACETE NORISK SOUL II GRAND PRIX FRANCE 58/M",
+        "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL tem o equilíbrio perfeito entre praticidade e estilo.",
+        "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-france/p?skuId=2448",
+        "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/189368-1200-auto?v=639038168730600000&width=1200&height=auto&aspect=true",
+        "price": 999.99,
+        "sku": "2448",
+        "inventory_quantity": 15
+      },
+      {
+        "id": "SOUL-II-FR 60/L",
+        "title": "CAPACETE NORISK SOUL II GRAND PRIX FRANCE 60/L",
+        "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL tem o equilíbrio perfeito entre praticidade e estilo.",
+        "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-france/p?skuId=2449",
+        "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/189368-1200-auto?v=639038168730600000&width=1200&height=auto&aspect=true",
+        "price": 999.99,
+        "sku": "2449",
+        "inventory_quantity": 15
+      },
+      {
+        "id": "SOUL-II-FR 62/XL",
+        "title": "CAPACETE NORISK SOUL II GRAND PRIX FRANCE 62/XL",
+        "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL tem o equilíbrio perfeito entre praticidade e estilo.",
+        "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-france/p?skuId=2450",
+        "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/189368-1200-auto?v=639038168730600000&width=1200&height=auto&aspect=true",
+        "price": 999.99,
+        "sku": "2450",
+        "inventory_quantity": 15
+      }
+    ]
+  },
+  --
+  {
+    "id": "SOUL-II-JP",
+    "title": "CAPACETE NORISK SOUL II GRAND PRIX JAPAN",
+    "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL II tem o equilíbrio perfeito entre praticidade e estilo.",
+    "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-japan/p?skuId=2283",
+    "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/187687-1200-auto?v=638963052186600000&width=1200&height=auto&aspect=true",
+    "categories": ["Capacete Norisk FF302 (SOUL II GRAND PRIX JAPAN)"],
+    "status": "published",
+    "variants": [
+      {
+        "id": "SOUL-II-JP 54/XS",
+        "title": "CAPACETE NORISK SOUL II GRAND PRIX JAPAN 54/XS",
+        "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL tem o equilíbrio perfeito entre praticidade e estilo.",
+        "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-japan/p?skuId=2283",
+        "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/187687-1200-auto?v=638963052186600000&width=1200&height=auto&aspect=true",
+        "price": 999.99,
+        "sku": "2283",
+        "inventory_quantity": 15
+      },
+      {
+        "id": "SOUL-II-JP 56/S",
+        "title": "CAPACETE NORISK SOUL II GRAND PRIX JAPAN 56/S",
+        "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL tem o equilíbrio perfeito entre praticidade e estilo.",
+        "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-japan/p?skuId=2283",
+        "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/187687-1200-auto?v=638963052186600000&width=1200&height=auto&aspect=true",
+        "price": 999.99,
+        "sku": "2283",
+        "inventory_quantity": 15
+      },
+      {
+        "id": "SOUL-II-JP 58/M",
+        "title": "CAPACETE NORISK SOUL II GRAND PRIX JAPAN 58/M",
+        "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL tem o equilíbrio perfeito entre praticidade e estilo.",
+        "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-japan/p?skuId=2284",
+        "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/187687-1200-auto?v=638963052186600000&width=1200&height=auto&aspect=true",
+        "price": 999.99,
+        "sku": "2284",
+        "inventory_quantity": 15
+      },
+      {
+        "id": "SOUL-II-JP 60/L",
+        "title": "CAPACETE NORISK SOUL II GRAND PRIX JAPAN 60/L",
+        "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL tem o equilíbrio perfeito entre praticidade e estilo.",
+        "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-japan/p?skuId=2285",
+        "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/187687-1200-auto?v=638963052186600000&width=1200&height=auto&aspect=true",
+        "price": 999.99,
+        "sku": "2285",
+        "inventory_quantity": 15
+      },
+      {
+        "id": "SOUL-II-JP 62/XL",
+        "title": "CAPACETE NORISK SOUL II GRAND PRIX JAPAN 62/XL",
+        "description": "Especialmente projetado para os motociclistas que dividem sua rotina entre a cidade e a estrada, o NORISK FF302 SOUL tem o equilíbrio perfeito entre praticidade e estilo.",
+        "link": "https://www.norisk.com.br/capacete-norisk-soul-ii-grand-prix-japan/p?skuId=2286",
+        "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/187687-1200-auto?v=638963052186600000&width=1200&height=auto&aspect=true",
+        "price": 999.99,
+        "sku": "2286",
+        "inventory_quantity": 15
+      }
+    ]
