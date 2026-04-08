@@ -260,7 +260,7 @@
         "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/189021-1200-auto?v=639026277300330000&width=1200&height=auto&aspect=true",
         "price": 999.99,
         "sku": "2405",
-        "inventory_quantity": 0
+        "inventory_quantity": 15
       },
       {
         "id": "SOUL-II-BR 58/M",
@@ -270,7 +270,7 @@
         "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/189021-1200-auto?v=639026277300330000&width=1200&height=auto&aspect=true",
         "price": 999.99,
         "sku": "2406",
-        "inventory_quantity": 0
+        "inventory_quantity": 15
       },
       {
         "id": "SOUL-II-BR 60/L",
@@ -280,7 +280,7 @@
         "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/189021-1200-auto?v=639026277300330000&width=1200&height=auto&aspect=true",
         "price": 999.99,
         "sku": "2407",
-        "inventory_quantity": 0
+        "inventory_quantity": 15
       },
       {
         "id": "SOUL-II-BR 62/XL",
@@ -290,7 +290,7 @@
         "image_link": "https://noriskbr.vtexassets.com/arquivos/ids/189021-1200-auto?v=639026277300330000&width=1200&height=auto&aspect=true",
         "price": 999.99,
         "sku": "2408",
-        "inventory_quantity": 0
+        "inventory_quantity": 15
       }
     ]
   },
